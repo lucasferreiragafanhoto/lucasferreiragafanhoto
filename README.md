@@ -23,6 +23,6 @@
  <img alig="<center" alt="MSYQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alig="<center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
- ### 👨🏽‍🎓 cursando bacharelado: sistemas de informação S.I; 👨🏽‍🎓 
+  👨🏽‍🎓 cursando bacharelado: sistemas de informação S.I; 👨🏽‍🎓 
 
 
