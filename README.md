@@ -5,7 +5,7 @@
 [![likdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-52033b249/)
 
 ![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasferreiragafanhoto&show_icons=true&theme=darcula)
-</div><br/>
+<div>
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiragafanhoto)](https://github.com/lucasferreiragafamhoto/github-readme-stats)
@@ -21,6 +21,7 @@
  <img alig="<center" alt="MSYQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alig="<center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
+![snake gif](https://github.com/lucasferreiragafanhoto/lucasferreiragafanhoto/blob/output/github-contribution-grid-snake.svg)
  👨🏽‍🎓 cursando bacharelado: sistemas de informação S.I; 👨🏽‍🎓 
 
 
