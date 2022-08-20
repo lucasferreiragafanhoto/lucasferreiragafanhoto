@@ -23,6 +23,6 @@
 
 </div><br/>
 
- 👨🏽‍🎓 cursando bacharelado: sistemas de informação S.I; 👨🏽‍🎓 
+### 👨🏽‍🎓 cursando bacharelado: sistemas de informação S.I; 👨🏽‍🎓 
 
 
