@@ -5,11 +5,8 @@
 [![likdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ferreira-52033b249/)
 
 ![lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasferreiragafanhoto&show_icons=true&theme=darcula)
+</div><br/>
 
-
- 
-<div
-![snake gif](https://github.com/lucasferreiragafanhoto/lucasferreiragafanhoto/blob/output/github-contribution-grid-snake.svg)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiragafanhoto)](https://github.com/lucasferreiragafamhoto/github-readme-stats)
 ## tecnologia que uso no meu dia
