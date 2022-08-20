@@ -20,8 +20,9 @@
  <img alig="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
  <img alig="<center" alt="MSYQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img alig="<center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+[![snake gif](https://github.com/lucasferreiragafanhoto/lucasferreiragafanhoto/blob/output/github-contribution-grid-snake.svg)
 </div><br/>
-![snake gif](https://github.com/lucasferreiragafanhoto/lucasferreiragafanhoto/blob/output/github-contribution-grid-snake.svg)
+
  👨🏽‍🎓 cursando bacharelado: sistemas de informação S.I; 👨🏽‍🎓 
 
 
