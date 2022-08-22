@@ -10,7 +10,7 @@
  
 <div>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/lucasferreiragafanhoto/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasferreiragafanhoto&langs_count=8)](https://github.com/lucasferreiragafanhoto/github-readme-stats)
 ## tecnologia que uso no meu dia
 
 <div style="display: inline-black"><br/> 
